@@ -8,6 +8,7 @@ The Josephus problem had once come up in a Data Structures and Algorithms course
 Since our aim was to primarily focus on the safe position number, I used a **Vector** instead of a **Linked List** even though it would be a more practical representation of the problem. 
 
 First, I manually tried initial values of the question to look for a pattern.\
+
 ![](https://github.com/bi-yotch/Josephus-Problem-Vectors/blob/main/Notes.jpeg)
 
 The one step method to find the solution for n number of people that I have implemented is `2 * (n % i) + 1`, where i is the largest 2^k value less than n. Since we know that the safe position will be in an odd position, we use the `2m + 1` formula to get the position.\
