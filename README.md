@@ -16,3 +16,5 @@ The one step method to find the solution for n number of people that I have impl
 For example, when **n = 7**, we have **i = 2^2 = 4**, and **7 % 4 = 3**.\
 So **m = 3**, this means that we're looking at the 3rd odd number.\
 **2m + 1 = 2\*3 + 1 = 7**.
+
+We see that this is true from my Notes above.
