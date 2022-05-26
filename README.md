@@ -1,4 +1,5 @@
 # Josephus-Problem-Vectors
+The following came up in a Data Structures and Algorithms course:
 
 ![](https://github.com/bi-yotch/Josephus-Problem-Vectors/blob/main/TheProblem.png)
 
