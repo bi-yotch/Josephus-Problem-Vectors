@@ -18,3 +18,6 @@ So **m = 3**, this means that we're looking at the 3rd odd number.\
 **2m + 1 = 2\*3 + 1 = 7**.
 
 We see that this is true from my Notes above.
+
+## Sample Output
+![](https://github.com/bi-yotch/Josephus-Problem-Vectors/blob/main/SampleOutput.png)
